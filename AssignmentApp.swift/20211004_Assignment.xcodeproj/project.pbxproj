@@ -11,6 +11,7 @@
 		F421A2A628F405E8009CFAB7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F421A2A528F405E8009CFAB7 /* ContentView.swift */; };
 		F421A2A828F405E9009CFAB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F421A2A728F405E9009CFAB7 /* Assets.xcassets */; };
 		F421A2AB28F405E9009CFAB7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F421A2AA28F405E9009CFAB7 /* Preview Assets.xcassets */; };
+		F4DE4BC729041505005CAB54 /* AssignmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4DE4BC629041505005CAB54 /* AssignmentApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F421A2A528F405E8009CFAB7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F421A2A728F405E9009CFAB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F421A2AA28F405E9009CFAB7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F4DE4BC629041505005CAB54 /* AssignmentApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AssignmentApp.swift; path = 20211004_Assignment/AssignmentApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		F421A29728F405E8009CFAB7 = {
 			isa = PBXGroup;
 			children = (
+				F4DE4BC629041505005CAB54 /* AssignmentApp.swift */,
 				F421A2A228F405E8009CFAB7 /* Assignment */,
 				F421A2A128F405E8009CFAB7 /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				F421A2A628F405E8009CFAB7 /* ContentView.swift in Sources */,
 				F421A2A428F405E8009CFAB7 /*  in Sources */,
+				F4DE4BC729041505005CAB54 /* AssignmentApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,6 +183,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_ASSET_PATHS = "/Users/gim-eung-gwan/kwan-assignment/AssignmentApp.swift/20211004_Assignment.xcodeproj";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -239,6 +244,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_ASSET_PATHS = "/Users/gim-eung-gwan/kwan-assignment/AssignmentApp.swift/20211004_Assignment.xcodeproj";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
